@@ -12,5 +12,6 @@ To see only the data that matches a specific Name, you can use the search bar. S
 
 ### Preview
 
-![image](https://user-images.githubusercontent.com/102637227/223192619-4f457d91-070d-484c-a0e2-c89c82dcd7d0.png)
-![image](https://user-images.githubusercontent.com/102637227/223192732-89df59f6-6d92-4bc4-8191-b6d48bdcaba5.png)
+![image](https://user-images.githubusercontent.com/102637227/223193605-4877c76f-ce09-4dd4-bffa-c924dcc60711.png)
+![image](https://user-images.githubusercontent.com/102637227/223193659-087427ce-e3e2-4082-8731-64758ef8a664.png)
+
